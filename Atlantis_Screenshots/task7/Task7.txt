@@ -1,0 +1,107 @@
+Event 11:
+
+E_Tmiss = 23.773 GeV
+
+Top left jet:
+
+                   ET     E      M   
+ LAr(15)           16.9   21.1   1.64  (ECAL)
+ TILE(22)          29.2   37.0   3.80  (HCAL)
+ Total             46.2   58.1   5.58
+ 
+ Top right jet:
+                    ET     E      M   
+ ConvertedIPatTracks 5    8.6   19.3    .14
+ LAr(9)             3.9    8.9    .26
+ TILE(15)           9.8   19.5   6.58
+ Total             22.4   47.7  10.71
+ 
+ 2 muons
+ 
+ bottom left
+ 
+ pT = -41.55 +- 5.129GeV
+ 
+ bottom right 
+ 
+ pT = 121.40 ± 3.258 GeV
+
+ 
+
+ 
+Event 6:
+
+mystery-036_0_00118_f.xml
+Run: 0 Event: 6
+
+cut: pT 10 GeV
+right muon :  pT = -21.83 ± 1.413 GeV
+left muon :  pT = 45.06 ± 3.807 GeV
+
+very little deposited energy in the calorimeters < 5 GeV for left muon, < 3 GeV for right muon
+very low missing mometum of ET-Mis  = 2.082 GeV therefore probably no neutrino
+probably a pair production process
+
+
+
+Event 20:
+
+mystery-036_0_00080_f.xml
+Run: 0 Event: 20
+
+shower in ECAL of the top left
+                   ET     E      M   
+ LAr(15)           30.4   48.4    .43
+ Total             30.4   48.4    .43
+ 
+ muon  pT = -50.35 ± 1.546 GeV
+ very little E deposited in HCAL (2.2 GeV)
+ ET-Mis  = 58.573 GeV therefore probably a neutrino
+ 
+ very small energy everywhere else (HCAL/ECAL)
+ 
+ probably some weak interaction process and an em shower in the ECAL
+ 
+ 
+ 
+ Event 45:
+ 
+mystery-036_0_00134_f.xml
+Run: 0 Event: 45
+
+ET-Mis  = 48.891 GeV
+muon: pT = 81.28 ± 7.768 GeV
+
+
+
+Jet bottom left     ET     E      M   
+ LAr(30)           44.2   52.4   7.73
+ TILE(9)            2.1    3.0   1.93
+ Total             46.2   55.4  12.10
+ 
+Jet bottom right 
+
+                   ET     E      M   
+ LAr(44)           39.8   65.3   3.49
+ TILE(18)          14.8   24.0   1.53
+ Total             54.6   89.3   5.05
+ 
+ ET-Mis  = 48.891 GeV
+ 
+ rest insignificant
+ 
+ 
+ Event 0:
+ 
+ ET-Mis  = 3.263 GeV
+ 
+ jets:
+                    ET     E      M   
+ LAr(13)           13.5   25.4   1.17
+ TILE(16)           5.3    9.6    .84
+ Total             18.8   35.0   2.16
+
+                   ET     E      M   
+ LAr(8)             7.0   11.1   1.56
+ TILE(10)           6.8    9.4   2.35
+ Total             13.8   20.6   4.32

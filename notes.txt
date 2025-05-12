@@ -1,0 +1,36 @@
+goal 91.188
+goal mw = 80.37
+
+
+no cuts: 89.87
+
+W_mass
+
+inspection of of kinematic variables:
+file names: variable_bin-number__lower-boundary_upper-boundary_qcd-faktor
+
+etmis: qcd-factor = 0.3 +- 
+el_pt qcd-factor = 
+nejt qcd-factor = 0.49 +- 0.08
+ptw qcd-factor = 0.42+- 0.06
+
+set the final qcd value to 0.35 after cuts
+
+
+for range selection:
+gauge_curve_cuts3 : range 30-55
+
+we decided on 32-50 range 
+
+
+cut selection:
+
+error discussion:
+systematic errors:
+
+assume symmetric distribution of errors and that they are uncorrelated so we can add them up (in reality not really uncorrelated but we make this assumption e.g. qcd factor is correlated to cut selection)
+add the errors quadratically
+electron calibration
+qcd scale factor (eye estimation)
+cut selections
+range selections 
