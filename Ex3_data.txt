@@ -1,0 +1,471 @@
+Event 1 :
+
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 26
+ d0 = .089 ± .418 cm
+ z0 = 692.635 ± .027 cm
+ phi0 = 21.678 ± .224°
+ η = 1.446 ± .002
+ tL = 2.005 ± .004
+ pT = -24.06 ± 2.579 GeV
+ p  = -53.92 GeV
+
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 52
+ d0 = .001 ± .001 cm
+ z0 = -.002 ± .010 cm
+ phi0 = 21.008 ± .009°
+ η = 1.437 ± .000
+ tL = 1.986 ± .001
+ pT = -38.36 ± 1.016 GeV
+ p  = -85.28 GeV
+
+ Event 2 :
+ 
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 30
+ d0 = -.001 ± .001 cm
+ z0 = .001 ± .006 cm
+ phi0 = 24.877 ± .009°
+ η = -.767 ± .000
+ tL = -.844 ± .001
+ pT = 33.17 ± .797 GeV
+ p  = 43.40 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 21
+ d0 = -.092 ± 2.533 cm
+ z0 = -376.740 ± .041 cm
+ phi0 = 23.423 ± .306°
+ η = -.773 ± .001
+ tL = -.853 ± .001
+ pT = 33.35 ± 1.675 GeV
+ p  = 43.83 GeV
+ 
+Event 4:
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 47
+ d0 = .001 ± .001 cm
+ z0 = .002 ± .011 cm
+ phi0 = 311.119 ± .007°
+ η = .567 ± .001
+ tL = .598 ± .001
+ pT = 41.96 ± .831 GeV
+ p  = 48.89 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 27
+ d0 = .261 ± .882 cm
+ z0 = 357.529 ± .048 cm
+ phi0 = 310.118 ± .214°
+ η = .583 ± .000
+ tL = .616 ± .000
+ pT = 38.11 ± 1.333 GeV
+ p  = 44.77 GeV
+ 
+Event 5:
+
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 43
+ d0 = .000 ± .001 cm
+ z0 = .009 ± .012 cm
+ phi0 = 244.395 ± .008°
+ η = -1.809 ± .000
+ tL = -2.970 ± .001
+ pT = -53.66 ± 2.054 GeV
+ p  = -168.16 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 23
+ d0 = .090 ± .301 cm
+ z0 = -693.954 ± .085 cm
+ phi0 = 241.740 ± .097°
+ η = -1.728 ± .001
+ tL = -2.726 ± .003
+ pT = -61.17 ± 4.417 GeV
+ p  = -177.62 GeV
+ 
+ Event 6:
+ 
+
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 47
+ d0 = -.001 ± .001 cm
+ z0 = -.016 ± .011 cm
+ phi0 = 151.865 ± .009°
+ η = 1.621 ± .000
+ tL = 2.430 ± .001
+ pT = 44.65 ± 1.388 GeV
+ p  = 117.32 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 24
+ d0 = .068 ± .344 cm
+ z0 = 693.329 ± .090 cm
+ phi0 = 151.487 ± .108°
+ η = 1.625 ± .001
+ tL = 2.441 ± .003
+ pT = 36.60 ± 3.150 GeV
+ p  = 96.56 GeV
+ 
+ Event 7:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 39
+ d0 = -.001 ± .001 cm
+ z0 = .004 ± .009 cm
+ phi0 = 3.804 ± .006°
+ η = .699 ± .001
+ tL = .758 ± .001
+ pT = -57.34 ± 1.684 GeV
+ p  = -71.94 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 28
+ d0 = 2.248 ± 1.245 cm
+ z0 = 362.162 ± .055 cm
+ phi0 = 3.253 ± .213°
+ η = .698 ± .000
+ tL = .756 ± .000
+ pT = -51.82 ± 1.070 GeV
+ p  = -64.96 GeV
+
+ Event 8:
+ 
+ 
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 44
+ d0 = .001 ± .001 cm
+ z0 = .008 ± .013 cm
+ phi0 = 67.324 ± .008°
+ η = 1.797 ± .000
+ tL = 2.932 ± .001
+ pT = 64.54 ± 2.677 GeV
+ p  = 199.91 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 24
+ d0 = -.162 ± .553 cm
+ z0 = 700.650 ± .051 cm
+ phi0 = 65.765 ± .137°
+ η = 1.788 ± .001
+ tL = 2.906 ± .002
+ pT = 64.89 ± 2.846 GeV
+ p  = 199.44 GeV
+ 
+ Event 9:
+ 
+ 
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 39
+ d0 = -.001 ± .001 cm
+ z0 = .027 ± .012 cm
+ phi0 = 240.986 ± .005°
+ η = -.287 ± .001
+ tL = -.291 ± .001
+ pT = -55.54 ± 1.150 GeV
+ p  = -57.84 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 26
+ d0 = -.991 ± 2.022 cm
+ z0 = -130.075 ± .060 cm
+ phi0 = 241.767 ± .252°
+ η = -.288 ± .000
+ tL = -.292 ± .000
+ pT = -48.00 ± .948 GeV
+ p  = -50.01 GeV
+ 
+ Event 10:
+    skip
+    
+Event 11:
+
+InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 48
+ d0 = -.001 ± .002 cm
+ z0 = .014 ± .018 cm
+ phi0 = 48.016 ± .012°
+ η = -1.636 ± .001
+ tL = -2.471 ± .002
+ pT = -37.79 ± 1.185 GeV
+ p  = -100.75 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 23
+ d0 = -.085 ± .640 cm
+ z0 = -695.860 ± .109 cm
+ phi0 = 48.715 ± .145°
+ η = -1.645 ± .001
+ tL = -2.494 ± .003
+ pT = -35.03 ± .659 GeV
+ p  = -94.11 GeV
+ 
+ Event 12:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 42
+ d0 = .000 ± .001 cm
+ z0 = .008 ± .011 cm
+ phi0 = 326.100 ± .006°
+ η = .189 ± .001
+ tL = .190 ± .001
+ pT = 37.59 ± .653 GeV
+ p  = 38.26 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 26
+ d0 = -.731 ± .869 cm
+ z0 = 113.825 ± .028 cm
+ phi0 = 324.917 ± .211°
+ η = .194 ± .000
+ tL = .195 ± .000
+ pT = 33.85 ± 1.157 GeV
+ p  = 34.48 GeV
+ 
+ Event 13:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 38
+ d0 = -.001 ± .001 cm
+ z0 = -.017 ± .012 cm
+ phi0 = 223.748 ± .006°
+ η = 1.163 ± .001
+ tL = 1.444 ± .001
+ pT = -59.88 ± 1.766 GeV
+ p  = -105.19 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 17
+ d0 = -8.733 ± 3.444 cm
+ z0 = 756.438 ± .052 cm
+ phi0 = 225.558 ± .417°
+ η = 1.158 ± .001
+ tL = 1.435 ± .001
+ pT = -62.15 ± 4.197 GeV
+ p  = -108.68 GeV
+ 
+ Event 14:
+ 
+ skip
+ 
+ Event 15:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 49
+ d0 = -.001 ± .001 cm
+ z0 = .013 ± .013 cm
+ phi0 = 254.894 ± .009°
+ η = -1.763 ± .000
+ tL = -2.830 ± .001
+ pT = -43.88 ± 1.471 GeV
+ p  = -131.69 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 30
+ d0 = .142 ± .219 cm
+ z0 = -694.567 ± .159 cm
+ phi0 = 256.042 ± .080°
+ η = -1.759 ± .001
+ tL = -2.818 ± .003
+ pT = -41.97 ± 2.098 GeV
+ p  = -125.51 GeV
+ 
+ Event 16:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 39
+ d0 = .006 ± .001 cm
+ z0 = -.022 ± .014 cm
+ phi0 = 27.045 ± .009°
+ η = -1.874 ± .000
+ tL = -3.181 ± .001
+ pT = 45.66 ± 1.844 GeV
+ p  = 152.24 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 23
+ d0 = 2.125 ± 2.819 cm
+ z0 = -708.716 ± .593 cm
+ phi0 = 26.278 ± .670°
+ η = -1.875 ± .001
+ tL = -3.183 ± .004
+ pT = 47.26 ± 2.169 GeV
+ p  = 157.69 GeV
+ 
+ Event 17:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 48
+ d0 = -.000 ± .001 cm
+ z0 = .001 ± .010 cm
+ phi0 = 326.388 ± .007°
+ η = .395 ± .001
+ tL = .405 ± .001
+ pT = -32.65 ± .539 GeV
+ p  = -35.23 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 32
+ d0 = 1.144 ± 1.035 cm
+ z0 = 214.496 ± .090 cm
+ phi0 = 327.107 ± .201°
+ η = .396 ± .000
+ tL = .407 ± .000
+ pT = -29.81 ± .531 GeV
+ p  = -32.18 GeV
+ 
+ Event 18:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 44
+ d0 = -.001 ± .001 cm
+ z0 = .010 ± .010 cm
+ phi0 = 336.212 ± .005°
+ η = .229 ± .001
+ tL = .231 ± .001
+ pT = 52.80 ± 1.060 GeV
+ p  = 54.19 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 24
+ d0 = -3.314 ± 2.123 cm
+ z0 = 102.781 ± .014 cm
+ phi0 = 336.122 ± .272°
+ η = .228 ± .000
+ tL = .230 ± .000
+ pT = 48.73 ± 2.261 GeV
+ p  = 50.00 GeV
+ 
+ Event 19:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 29
+ d0 = -.001 ± .001 cm
+ z0 = -.009 ± .006 cm
+ phi0 = 259.873 ± .006°
+ η = .773 ± .000
+ tL = .852 ± .001
+ pT = -64.49 ± 2.515 GeV
+ p  = -84.75 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 17
+ d0 = -.035 ± 3.853 cm
+ z0 = 411.452 ± .561 cm
+ phi0 = 260.216 ± .442°
+ η = .762 ± .001
+ tL = .838 ± .001
+ pT = -52.18 ± 1.038 GeV
+ p  = -68.09 GeV
+ 
+ Event 20:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 51
+ d0 = -.001 ± .001 cm
+ z0 = .009 ± .010 cm
+ phi0 = 77.622 ± .007°
+ η = 1.421 ± .000
+ tL = 1.951 ± .001
+ pT = 47.56 ± 1.324 GeV
+ p  = 104.26 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 32
+ d0 = .814 ± .063 cm
+ z0 = 689.057 ± .030 cm
+ phi0 = 77.076 ± .077°
+ η = 1.416 ± .001
+ tL = 1.938 ± .002
+ pT = 49.52 ± 3.217 GeV
+ p  = 107.98 GeV
+ 
+ Event 21:
+ 
+ skip
+ 
+ Event 22:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 45
+ d0 = .001 ± .001 cm
+ z0 = .000 ± .010 cm
+ phi0 = 131.597 ± .005°
+ η = 1.259 ± .000
+ tL = 1.620 ± .001
+ pT = 52.73 ± 1.304 GeV
+ p  = 100.36 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 14
+ d0 = .116 ± .515 cm
+ z0 = 692.890 ± .170 cm
+ phi0 = 130.686 ± .093°
+ η = 1.260 ± .002
+ tL = 1.621 ± .003
+ pT = 53.09 ± 8.798 GeV
+ p  = 101.13 GeV
+ 
+ Event 23:
+ 
+ InDetTrack = 0
+ storegate key: ConvertedIPatTracks
+ numHits = 46
+ d0 = -.000 ± .002 cm
+ z0 = -.013 ± .017 cm
+ phi0 = 123.546 ± .010°
+ η = 1.622 ± .001
+ tL = 2.433 ± .001
+ pT = -44.56 ± 1.470 GeV
+ p  = -117.21 GeV
+
+MuonTrack = 0
+ storegate key: ConvertedMooreTracks
+ numHits = 25
+ d0 = .001 ± .344 cm
+ z0 = 698.468 ± .164 cm
+ phi0 = 124.220 ± .096°
+ η = 1.625 ± .001
+ tL = 2.441 ± .003
+ pT = -42.55 ± 2.235 GeV
+ p  = -112.26 GeV
+ 
+ 
