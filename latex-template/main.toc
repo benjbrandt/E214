@@ -1,4 +1,9 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}W-mass}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Electron Calibration Verification}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}QCD scale factor}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Cut selection}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Gauge curves}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}W-mass}{3}{subsection.1.5}%
 \contentsline {section}{\numberline {A}Appendix}{3}{appendix.A}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
