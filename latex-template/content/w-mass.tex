@@ -1,9 +1,10 @@
 \section{W-mass}
 \label{sec:w-mass}
-With the finished calibration, the mass of the W-boson can now be measured. 
+With the finished calibration, the mass of the W-boson can now be measured. This is done using a the Jacobi peak of the electron transverse momentum distribution.
 In order to determine the W-mass, we use a data set of actual ATLAS data containing $W \rightarrow e\nu$ events,
 as well as several simulated data sets also containing $W \rightarrow e\nu$ events. 
-There is also a $Z^0 \rightarrow e^+e^-$ data set to check the validity of the previous calibration. Finally there are data sets for QCD- and non-QCD background events.
+There is also a $Z^0 \rightarrow e^+e^-$ data set to check the validity of the previous calibration.
+Finally there are data sets for QCD- and non-QCD background events.
 
 \subsection{Electron Calibration Verification}
 
@@ -14,7 +15,7 @@ There is also a $Z^0 \rightarrow e^+e^-$ data set to check the validity of the p
     \label{fig:z-mass_check}
 \end{figure}
 
-\begin{table}
+\begin{table}[H]
     \centering
     \begin{tabular}{ccc}
         \toprule
@@ -38,7 +39,21 @@ There is also a $Z^0 \rightarrow e^+e^-$ data set to check the validity of the p
 
 
 \subsection{QCD scale factor}
+In order to achieve an accurate measurement of the W-mass, the background processes at ATLAS have to be taken into consideration.
+At LHC, proton proton collisions cause the measured events, therefore the background coming from QCD processes is large. This causes a problem,
+since the final products of the $W \rightarrow e\nu$ events we use to measure the W-mass are leptons which do not interact with the strong interaction.
+This makes the simulation of a QCD background for the $W \rightarrow e\nu$ events difficult. In order to solve this problem, the QCD background is extracted
+from the data. In order to scale the data correctly, a QCD scale factor is used, since the integrated luminosity of the background is not measured and therefore
+unknown. In order to get an understanding of the QCD scale factor and its effect on the data, different kinematic values are be plotted for different 
+QCD scale factors.
 
+\subsubsection{Kinematic Variables}
+In order to get a feeling for the QCD scale factor and estimate its optimal value, different kinematic Variables are analyzed.
+The chosen kinematic variables are $el_pt$ (the transverse momentum of the electron), etmis (missing transverse energy/momentum),
+njet (number of jets in the event) and ptw (transverse momentum of the W boson). The distributions of these different variables
+for a scale factor of 1 (meaning no scaling) can be seen in figure \ref{fig:qcd1}
+
+\texttt{el\_pt}
 \subsection{Cut selection}
 
 \subsection{Gauge curves}
