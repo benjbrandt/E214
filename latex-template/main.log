@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.10.23)  27 MAY 2025 18:56
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.10.23)  28 MAY 2025 12:12
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1509,18 +1509,18 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 16
  [2
 
 ] (./content/w-mass.tex
-<../W_mass/Z_mass_check_el_pt-cut.pdf, id=19, 569.12625pt x 378.41376pt>
-File: ../W_mass/Z_mass_check_el_pt-cut.pdf Graphic file (type pdf)
-<use ../W_mass/Z_mass_check_el_pt-cut.pdf>
-Package luatex.def Info: ../W_mass/Z_mass_check_el_pt-cut.pdf  used on input li
-ne 12.
-(luatex.def)             Requested size: 250.95587pt x 166.86055pt.
+<../W_mass/Z_mass_check_phi_positive.pdf, id=35, 569.12625pt x 530.98375pt>
+File: ../W_mass/Z_mass_check_phi_positive.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_phi_positive.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_phi_positive.pdf  used on input
+ line 12.
+(luatex.def)             Requested size: 292.7776pt x 273.16394pt.
 )
-(./content/appendix.tex)
+(./content/appendix.tex [3<../W_mass/Z_mass_check_phi_positive.pdf>])
 
 LaTeX Warning: Empty bibliography on input line 26.
 
-[3<../W_mass/Z_mass_check_el_pt-cut.pdf>] (./main.aux)
+[4] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1530,8 +1530,8 @@ L3 programming layer <2020/03/25>
 Package rerunfilecheck Warning: File `main.aux' has changed. Rerun.
 
 Package rerunfilecheck Info: Checksums for `main.aux':
-(rerunfilecheck)             Before: 4228C9D98B2048FC5B1B220C7FC08A88;992
-(rerunfilecheck)             After:  BEFF99C845858CFBCEFFDE0C64CBEC64;3692.
+(rerunfilecheck)             Before: B99174A2C540E854B54FD72D91F1BF78;4088
+(rerunfilecheck)             After:  29EAA413C1EB4D9DCE53369E6F563B06;4088.
 
 LaTeX Warning: There were undefined references.
 
@@ -1542,8 +1542,8 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package rerunfilecheck Warning: File `main.toc' has changed. Rerun.
 
 Package rerunfilecheck Info: Checksums for `main.toc':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  4EF345723C584E5F79E2D86AF4D0449E;632.
+(rerunfilecheck)             Before: C95136C763C3F359C4DC3019DFF0E873;632
+(rerunfilecheck)             After:  FA8E8FE64E10F0FD6913DC38C653DBF8;632.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1555,25 +1555,26 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 37710 strings out of 476553
+ 37720 strings out of 476553
  100000,2373549 words of node,token memory allocated
- 596 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 11 attribute, 72 glue_spec
-, 7 attribute_list, 1 write nodes
-   avail lists: 1:3,2:430,3:150,4:72,5:135,6:22,7:1456,8:19,9:144,10:7,11:88,12:
+ 682 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 17
+ attribute, 75 glue_spec, 10 attribute_list, 1 write nodes
+   avail lists: 1:3,2:718,3:143,4:69,5:132,6:23,7:1985,8:29,9:248,10:7,11:94,12:
 1
- 59107 multiletter control sequences out of 65536+600000
- 90 fonts using 36419971 bytes
- 113i,7n,109p,10917b,2936s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/
-fonts/opentype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opent
+ 59115 multiletter control sequences out of 65536+600000
+ 90 fonts using 36419807 bytes
+ 113i,14n,109p,10917b,2936s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/share
+/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opent
 ype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opentype/public/
-lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-re
-gular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on main.pdf (3 pages, 59843 bytes).
+lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman1
+0-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf><
+/usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf>
+Output written on main.pdf (4 pages, 71035 bytes).
 
-PDF statistics: 142 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 131072)
+PDF statistics: 163 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 15 named destinations out of 1000 (max. 131072)
  57 words of extra memory for PDF output out of 10000 (max. 100000000)
 
