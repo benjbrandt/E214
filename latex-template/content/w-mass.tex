@@ -143,12 +143,81 @@ Finally there are data sets for QCD- and non-QCD background events.
     
 \subsubsection{Final QCD scale factor}
     \label{sec:final_qcd}
-    After examining the different kinematic variables, a final QCD scale factor has to be chosen. 
-
-
-
+    After examining the different kinematic variables, a final QCD scale factor has to be chosen.
+    In order to do so, a region with high QCD background is chosen. For this we used to distribution of \texttt{ptw}, since the signal consists mostly of QCD background
+    for energies larger than around 30 GeV, as can be seen in figure \ref{fig:qcd-final}. Therefore the cut
+    \begin{align*}
+        \texttt{ptw} > 30\,GeV
+    \end{align*}
+    is applied. To further increase the background, only events where the number of jets is larger than zero are taking into account, since we can see from
+    figure \ref{fig:ptw_jets}, that the background to signal ratio increases for events with more than one jet. Therefore the cut 
+    \begin{align*}
+        \texttt{njet} > 0
+    \end{align*}
+    was also applied. When looking at the two remaining kinematic variables, \texttt{el\_pt} and \texttt{etmis} in figure \ref{fig:qcd-final}, it can be observed, that
+    the for momenta lower than 30\,GeV, the background dominates the signal.
+    Therefore the cuts 
+    \begin{align*}
+        \texttt{el\_pt} < 30\, GeV \\
+        \texttt{etmis} < 30\, GeV
+    \end{align*}
+    were also applied. The resulting distribution for different QCD scale factors can be seen in figure \ref{fig:final_ptw}.
+    The optimal value where the agreement between real and simulated data was identified by eye at $c_{QCD}=0.35$. The \texttt{ptw} distribution for that scale factor can 
+    be seen in part (b) of figure \ref{fig:final_ptw}.
+    To determine the error bounds of the QCD scale factor, the QCD scale factor was varied until the simulated and real data deviated visibly.
+    The final QCD scale factor was then chosen as 
+    \begin{align*}
+        c_{QCD} = 0.35_{-0.05}^{+0.04} 
+    \end{align*}
+    Since this entire process was only done per eye, this result is highly subjective. However, in the following step, the background will be reduced as much as possible,
+    therefore the QCD scale factor does not have a very large impact on the final result of $m_W$. 
+    \begin{figure}[H]
+        \begin{subfigure}{0.5\textwidth}
+            \includegraphics[width=\textwidth]{../W_mass/final_ptw_qcd0-33.pdf}
+            \subcaption{QCD scale factor = 0.33}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+            \includegraphics[width=\textwidth]{../W_mass/final_ptw_qcd0-35.pdf}
+            \subcaption{QCD scale factor = 0.35}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+            \includegraphics[width=\textwidth]{../W_mass/final_ptw_qcd0-37.pdf}
+            \subcaption{QCD scale factor = 0.37}
+        \end{subfigure}
+        \caption{\texttt{ptw} distributions with the cuts \texttt{ptw} > 30\,GeV, \texttt{njet} > 0, \texttt{el\_pt} < 30\, GeV and \texttt{etmis} < 30\, GeV for different QCD
+        scale factors}
+        \label{fig:final_ptw}
+    \end{figure}
 
 \subsection{Cut selection}
+    In order to achieve the most accurate $m_W$ a cut selection has to be applied, so that the distribution of the \texttt{el\_pt}, which is used to calculate $m_W$,
+    has the highest signal to background ratio. In order to choose the proper cut selections, the distributions of the kinematic variables in figures \ref{fig:qcd-final}
+    and \ref{fig:ptw_jets} are examined again. The following cuts were chosen:\\
+    \\
+    Since there are no jets expected in $W \rightarrow e\nu$ events, which can be confirmed when looking at figure \ref{fig:ptw_jets} where the signal to  
+    background ratio decreases significantly as the number of jets increases, the cut \texttt{njet == 0} is applied.\\
+    \\
+    Since there is a neutrino present in the $W$ decay, missing transverse momentum/energy $\slashed{E}_T$ is expected in the events.
+    When looking at the \texttt{etmis} distribution in figure \ref{fig:qcd1}, the background is largest for small $\slashed{E}_T$. After some trial and error, the cut
+    \texttt{etmis} > 33\,Gev is chosen.\\
+    \\
+    It is expected, that the $W$ boson itself does not have a large transverse momentum, which can be confirmed when looking at the \texttt{ptw} distribution
+    in figure \ref{fig:qcd1}. Therefore events with large \texttt{ptw} are cut off. The final cut was chosen as \texttt{ptw} < 35\,GeV.\\
+    \\
+    So the final cut 
+    \begin{align*}
+        \texttt{njet == 0 \&\& etmis > 33 \&\& ptw < 35}
+    \end{align*}
+    is applied to the \texttt{el\_pt} distribution. The distribution of \texttt{el\_pt} with the cuts applied can be seen in figure \ref{fig:el_pt_cuts}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\textwidth]{../W_mass/el_pt_final_cut_selection.pdf}
+        \caption{Electron transverse momentum \texttt{el\_pt} with the cuts \texttt{njet == 0 \&\& etmis > 33 \&\& ptw < 35} applied.}
+        \label{fig:el_pt_cuts}
+    \end{figure}
+    When comparing the \texttt{el\_pt} distribution with the cuts and the final QCD scale factor applied, to the \texttt{el\_pt} distribution in figure \ref{fig:qcd1},
+    the agreement between simulated and real data is increased whilst the background is decreased significantly. Therefore the applied cuts as well as the QCD scale factor
+    seem to be a decent choice.
 
 \subsection{Gauge curves}
 
