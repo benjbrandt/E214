@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.10.23)  30 MAY 2025 10:39
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.10.23)  30 MAY 2025 17:09
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -338,26 +338,61 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 (/usr/share/texlive/texmf-dist/tex/latex/carlisle/slashed.sty
 Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count278
+\lst@gtempboxa=\box57
+\lst@token=\toks24
+\lst@length=\count279
+\lst@currlwidth=\dimen159
+\lst@column=\count280
+\lst@pos=\count281
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count282
+\lst@lineno=\count283
+\lst@maxwidth=\dimen162
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count284
+\lst@skipnumbers=\count285
+\lst@framebox=\box58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package scrhack Info: loading listings hack on input line 25.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
+File: listings.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package l
+istings)
+Package tocbasic Info: omitting babel extension for `lol'
+(tocbasic)             because of missing \bbl@set@language on input line 157.
+Package scrhack Info: redefining \lstlistoflistings on input line 157.
+Package scrhack Info: patching \lst@MakeCaption on input line 157.
+)
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count278
-\l__fontspec_language_int=\count279
-\l__fontspec_strnum_int=\count280
-\l__fontspec_tmp_int=\count281
-\l__fontspec_tmpa_int=\count282
-\l__fontspec_tmpb_int=\count283
-\l__fontspec_tmpc_int=\count284
-\l__fontspec_em_int=\count285
-\l__fontspec_emdef_int=\count286
-\l__fontspec_strong_int=\count287
-\l__fontspec_strongdef_int=\count288
-\l__fontspec_tmpa_dim=\dimen159
-\l__fontspec_tmpb_dim=\dimen160
-\l__fontspec_tmpc_dim=\dimen161
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen163
+\l__fontspec_tmpb_dim=\dimen164
+\l__fontspec_tmpc_dim=\dimen165
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -379,7 +414,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 33.
+(typearea)              on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
@@ -478,8 +513,8 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
-\babel@savecnt=\count289
-\U@D=\dimen162
+\babel@savecnt=\count297
+\U@D=\dimen166
 \l@unhyphenated=\language90
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
@@ -520,9 +555,9 @@ Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting wit
 h LuaLaTeX
 Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
 h LuaLaTeX)
-\g__um_fam_int=\count290
-\g__um_fonts_used_int=\count291
-\l__um_primecount_int=\count292
+\g__um_fam_int=\count298
+\g__um_fonts_used_int=\count299
+\l__um_primecount_int=\count300
 \g__um_primekern_muskip=\muskip17
 
 (/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
@@ -571,15 +606,15 @@ ript=math;language=dflt;mathfontdimen=xetex;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 55.
+(Font)              `operators' in the math version `normal' on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LatinModernMath(1)/m/n on input line
- 55.
+ 58.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 55.
+(Font)              `operators' in the math version `bold' on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LatinModernMath(1)/b/n on input lin
-e 55.
+e 58.
 
 Package fontspec Info: Could not resolve font "LatinModernMath/B" (it probably
 (fontspec)             doesn't exist).
@@ -606,15 +641,15 @@ ex;mathfontdimen=tex2;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 55.
+(Font)              `symbols' in the math version `normal' on input line 58.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/LatinModernMath(2)/m/n on input lin
-e 55.
+e 58.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 55.
+(Font)              `symbols' in the math version `bold' on input line 58.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/LatinModernMath(2)/b/n on input lin
-e 55.
+e 58.
 
 Package fontspec Info: Could not resolve font "LatinModernMath/B" (it probably
 (fontspec)             doesn't exist).
@@ -642,22 +677,22 @@ ex;mathfontdimen=tex3;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 5
-5.
+8.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/LatinModernMath(3)/m/n on input lin
-e 55.
+e 58.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 55.
+(Font)              `largesymbols' in the math version `bold' on input line 58.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/LatinModernMath(3)/b/n on input lin
-e 55.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+e 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -689,10 +724,10 @@ ontdimen=xetex;"
 \sym__um_fam1=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `normal'
 (Font)                  TU/XITSMath(0)/m/n --> TU/XITSMath(0)/m/n on input line
- 56.
+ 59.
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `bold'
 (Font)                  TU/XITSMath(0)/m/n --> TU/XITSMath(0)/b/n on input line
- 56.
+ 59.
 
 Package fontspec Info: Font family 'XITSMath(1)' created for font 'XITS Math'
 (fontspec)             with options
@@ -719,45 +754,45 @@ ontdimen=xetex;+ss01;"
 \sym__um_fam2=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `normal'
 (Font)                  TU/XITSMath(1)/m/n --> TU/XITSMath(1)/m/n on input line
- 57.
+ 60.
 LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `bold'
 (Font)                  TU/XITSMath(1)/m/n --> TU/XITSMath(1)/b/n on input line
- 57.
+ 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2024-01-25 v3.3.10 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count293
-\l__siunitx_number_exponent_fixed_int=\count294
-\l__siunitx_number_min_decimal_int=\count295
-\l__siunitx_number_min_integer_int=\count296
-\l__siunitx_number_round_precision_int=\count297
-\l__siunitx_number_lower_threshold_int=\count298
-\l__siunitx_number_upper_threshold_int=\count299
-\l__siunitx_number_group_first_int=\count300
-\l__siunitx_number_group_size_int=\count301
-\l__siunitx_number_group_minimum_int=\count302
-\l__siunitx_angle_tmp_dim=\dimen163
-\l__siunitx_angle_marker_box=\box57
-\l__siunitx_angle_unit_box=\box58
-\l__siunitx_compound_count_int=\count303
+\l__siunitx_number_uncert_offset_int=\count301
+\l__siunitx_number_exponent_fixed_int=\count302
+\l__siunitx_number_min_decimal_int=\count303
+\l__siunitx_number_min_integer_int=\count304
+\l__siunitx_number_round_precision_int=\count305
+\l__siunitx_number_lower_threshold_int=\count306
+\l__siunitx_number_upper_threshold_int=\count307
+\l__siunitx_number_group_first_int=\count308
+\l__siunitx_number_group_size_int=\count309
+\l__siunitx_number_group_minimum_int=\count310
+\l__siunitx_angle_tmp_dim=\dimen167
+\l__siunitx_angle_marker_box=\box59
+\l__siunitx_angle_unit_box=\box60
+\l__siunitx_compound_count_int=\count311
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
  (CN)
 )
-\l__siunitx_table_tmp_box=\box59
-\l__siunitx_table_tmp_dim=\dimen164
-\l__siunitx_table_column_width_dim=\dimen165
-\l__siunitx_table_integer_box=\box60
-\l__siunitx_table_decimal_box=\box61
-\l__siunitx_table_uncert_box=\box62
-\l__siunitx_table_before_box=\box63
-\l__siunitx_table_after_box=\box64
-\l__siunitx_table_before_dim=\dimen166
-\l__siunitx_table_carry_dim=\dimen167
-\l__siunitx_unit_tmp_int=\count304
-\l__siunitx_unit_position_int=\count305
-\l__siunitx_unit_total_int=\count306
+\l__siunitx_table_tmp_box=\box61
+\l__siunitx_table_tmp_dim=\dimen168
+\l__siunitx_table_column_width_dim=\dimen169
+\l__siunitx_table_integer_box=\box62
+\l__siunitx_table_decimal_box=\box63
+\l__siunitx_table_uncert_box=\box64
+\l__siunitx_table_before_box=\box65
+\l__siunitx_table_after_box=\box66
+\l__siunitx_table_before_dim=\dimen170
+\l__siunitx_table_carry_dim=\dimen171
+\l__siunitx_unit_tmp_int=\count312
+\l__siunitx_unit_position_int=\count313
+\l__siunitx_unit_total_int=\count314
 
 Package siunitx Info: Option "separate-uncertainty" has been deprecated in
 (siunitx)             this release.
@@ -781,13 +816,13 @@ Package siunitx Info: Option "per-mode = symbol-or-fraction" has been
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen168
-\ar@mcellbox=\box65
-\extrarowheight=\dimen169
-\NC@list=\toks24
+\col@sep=\dimen172
+\ar@mcellbox=\box67
+\extrarowheight=\dimen173
+\NC@list=\toks25
 \extratabsurround=\skip71
 \backup@length=\skip72
-\ar@cellbox=\box66
+\ar@cellbox=\box68
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
@@ -795,8 +830,8 @@ Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
 (/usr/share/texlive/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count307
-\g__chemgreek_tmpa_int=\count308
+\l__chemgreek_tmpa_int=\count315
+\g__chemgreek_tmpa_int=\count316
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
@@ -812,7 +847,7 @@ Package graphics Info: Driver file: luatex.def on input line 107.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ))
-\l__mhchem_ce_distanceFromLastComma_int=\count309
+\l__mhchem_ce_distanceFromLastComma_int=\count317
 \__mhchem_arrow_extPgfLength_skip=\skip73
 \mhchem@minispace@tmp=\skip74
 \mhchem@minibackspace@tmp=\skip75
@@ -823,21 +858,21 @@ File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 \mhchem@smallbondwidth=\skip80
 \mhchem@bondtmp@minussidebearingleft=\skip81
 \mhchem@bondtmp@minussidebearingright=\skip82
-\l__mhchem_option_version_int=\count310
-\mhchem@option@minusmathsidebearingleft=\dimen170
-\mhchem@option@minusmathsidebearingright=\dimen171
-\mhchem@option@minustextsidebearingleft=\dimen172
-\mhchem@option@minustextsidebearingright=\dimen173
+\l__mhchem_option_version_int=\count318
+\mhchem@option@minusmathsidebearingleft=\dimen174
+\mhchem@option@minusmathsidebearingright=\dimen175
+\mhchem@option@minustextsidebearingleft=\dimen176
+\mhchem@option@minustextsidebearingright=\dimen177
 )
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count311
-\csq@gtype=\count312
-\csq@glevel=\count313
-\csq@qlevel=\count314
-\csq@maxlvl=\count315
-\csq@tshold=\count316
-\csq@ltx@everypar=\toks25
+\csq@reset=\count319
+\csq@gtype=\count320
+\csq@glevel=\count321
+\csq@qlevel=\count322
+\csq@maxlvl=\count323
+\csq@tshold=\count324
+\csq@ltx@everypar=\toks26
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -853,27 +888,27 @@ Package csquotes Info: Enabling multilingual quotes.
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen174
-\Gin@req@width=\dimen175
+\Gin@req@height=\dimen178
+\Gin@req@width=\dimen179
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen176
-\l__xtemplate_tmp_int=\count317
+\l__xtemplate_tmp_dim=\dimen180
+\l__xtemplate_tmp_int=\count325
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip83
 )
 Package: xfrac 2023-10-10 L3 Experimental split-level fractions
-\l__xfrac_slash_box=\box67
-\l__xfrac_tmp_box=\box68
-\l__xfrac_denominator_bot_sep_dim=\dimen177
-\l__xfrac_numerator_bot_sep_dim=\dimen178
-\l__xfrac_numerator_top_sep_dim=\dimen179
-\l__xfrac_slash_left_sep_dim=\dimen180
-\l__xfrac_slash_right_sep_dim=\dimen181
+\l__xfrac_slash_box=\box69
+\l__xfrac_tmp_box=\box70
+\l__xfrac_denominator_bot_sep_dim=\dimen181
+\l__xfrac_numerator_bot_sep_dim=\dimen182
+\l__xfrac_numerator_top_sep_dim=\dimen183
+\l__xfrac_slash_left_sep_dim=\dimen184
+\l__xfrac_slash_right_sep_dim=\dimen185
 \l__xfrac_slash_left_muskip=\muskip19
 \l__xfrac_slash_right_muskip=\muskip20
 
@@ -883,13 +918,13 @@ Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count318
-\float@exts=\toks26
-\float@box=\box69
-\@float@everytoks=\toks27
-\@floatcapt=\box70
+\c@float@type=\count326
+\float@exts=\toks27
+\float@box=\box71
+\@float@everytoks=\toks28
+\@floatcapt=\box72
 )
-Package scrhack Info: loading float hack on input line 81.
+Package scrhack Info: loading float hack on input line 84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/float.hak
 File: float.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package floa
@@ -927,67 +962,68 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen182
-\captionmargin=\dimen183
-\caption@leftmargin=\dimen184
-\caption@rightmargin=\dimen185
-\caption@width=\dimen186
-\caption@indent=\dimen187
-\caption@parindent=\dimen188
-\caption@hangindent=\dimen189
+\caption@tempdima=\dimen186
+\captionmargin=\dimen187
+\caption@leftmargin=\dimen188
+\caption@rightmargin=\dimen189
+\caption@width=\dimen190
+\caption@indent=\dimen191
+\caption@parindent=\dimen192
+\caption@hangindent=\dimen193
 Package caption Info: KOMA-Script document class detected.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-koma.sto
 File: caption-koma.sto 2023/09/08 v2.0e Adaption of the caption package to the 
 KOMA-Script document classes (AR)
 ))
-\c@caption@flags=\count319
-\c@continuedfloat=\count320
+\c@caption@flags=\count327
+\c@continuedfloat=\count328
 Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: KOMA-Script scrextend package detected.
-\caption@addmargin@hsize=\dimen190
-\caption@addmargin@linewidth=\dimen191
+\caption@addmargin@hsize=\dimen194
+\caption@addmargin@linewidth=\dimen195
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count321
+\c@subfigure=\count329
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count322
+\c@subtable=\count330
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen192
-\lightrulewidth=\dimen193
-\cmidrulewidth=\dimen194
-\belowrulesep=\dimen195
-\belowbottomsep=\dimen196
-\aboverulesep=\dimen197
-\abovetopsep=\dimen198
-\cmidrulesep=\dimen199
-\cmidrulekern=\dimen256
-\defaultaddspace=\dimen257
-\@cmidla=\count323
-\@cmidlb=\count324
-\@aboverulesep=\dimen258
-\@belowrulesep=\dimen259
-\@thisruleclass=\count325
-\@lastruleclass=\count326
-\@thisrulewidth=\dimen260
+\heavyrulewidth=\dimen196
+\lightrulewidth=\dimen197
+\cmidrulewidth=\dimen198
+\belowrulesep=\dimen199
+\belowbottomsep=\dimen256
+\aboverulesep=\dimen257
+\abovetopsep=\dimen258
+\cmidrulesep=\dimen259
+\cmidrulekern=\dimen260
+\defaultaddspace=\dimen261
+\@cmidla=\count331
+\@cmidlb=\count332
+\@aboverulesep=\dimen262
+\@belowrulesep=\dimen263
+\@thisruleclass=\count333
+\@lastruleclass=\count334
+\@thisrulewidth=\dimen264
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks28
-\MT@tempbox=\box71
-\MT@count=\count327
+\MT@toks=\toks29
+\MT@tempbox=\box73
+\MT@count=\count335
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks29
+\MT@prot@toks=\toks30
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen261
+\MT@outer@kern=\dimen265
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count328
+\MT@listname@count=\count336
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-luatex.def
 File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
@@ -1008,7 +1044,7 @@ Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count329
+\lrq@indent=\count337
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -1020,49 +1056,49 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip21
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count330
-\c@listtotal=\count331
-\c@listcount=\count332
-\c@liststart=\count333
-\c@liststop=\count334
-\c@citecount=\count335
-\c@citetotal=\count336
-\c@multicitecount=\count337
-\c@multicitetotal=\count338
-\c@instcount=\count339
-\c@maxnames=\count340
-\c@minnames=\count341
-\c@maxitems=\count342
-\c@minitems=\count343
-\c@citecounter=\count344
-\c@maxcitecounter=\count345
-\c@savedcitecounter=\count346
-\c@uniquelist=\count347
-\c@uniquename=\count348
-\c@refsection=\count349
-\c@refsegment=\count350
-\c@maxextratitle=\count351
-\c@maxextratitleyear=\count352
-\c@maxextraname=\count353
-\c@maxextradate=\count354
-\c@maxextraalpha=\count355
-\c@abbrvpenalty=\count356
-\c@highnamepenalty=\count357
-\c@lownamepenalty=\count358
-\c@maxparens=\count359
-\c@parenlevel=\count360
-\blx@tempcnta=\count361
-\blx@tempcntb=\count362
-\blx@tempcntc=\count363
-\c@blx@maxsection=\count364
-\blx@maxsegment@0=\count365
-\blx@notetype=\count366
-\blx@parenlevel@text=\count367
-\blx@parenlevel@foot=\count368
-\blx@sectionciteorder@0=\count369
-\blx@sectionciteorderinternal@0=\count370
-\blx@entrysetcounter=\count371
-\blx@biblioinstance=\count372
+\c@tabx@nest=\count338
+\c@listtotal=\count339
+\c@listcount=\count340
+\c@liststart=\count341
+\c@liststop=\count342
+\c@citecount=\count343
+\c@citetotal=\count344
+\c@multicitecount=\count345
+\c@multicitetotal=\count346
+\c@instcount=\count347
+\c@maxnames=\count348
+\c@minnames=\count349
+\c@maxitems=\count350
+\c@minitems=\count351
+\c@citecounter=\count352
+\c@maxcitecounter=\count353
+\c@savedcitecounter=\count354
+\c@uniquelist=\count355
+\c@uniquename=\count356
+\c@refsection=\count357
+\c@refsegment=\count358
+\c@maxextratitle=\count359
+\c@maxextratitleyear=\count360
+\c@maxextraname=\count361
+\c@maxextradate=\count362
+\c@maxextraalpha=\count363
+\c@abbrvpenalty=\count364
+\c@highnamepenalty=\count365
+\c@lownamepenalty=\count366
+\c@maxparens=\count367
+\c@parenlevel=\count368
+\blx@tempcnta=\count369
+\blx@tempcntb=\count370
+\blx@tempcntc=\count371
+\c@blx@maxsection=\count372
+\blx@maxsegment@0=\count373
+\blx@notetype=\count374
+\blx@parenlevel@text=\count375
+\blx@parenlevel@foot=\count376
+\blx@sectionciteorder@0=\count377
+\blx@sectionciteorderinternal@0=\count378
+\blx@entrysetcounter=\count379
+\blx@biblioinstance=\count380
 \labelnumberwidth=\skip86
 \labelalphawidth=\skip87
 \biblabelsep=\skip88
@@ -1074,9 +1110,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language91
-\c@mincomprange=\count373
-\c@maxcomprange=\count374
-\c@mincompwidth=\count375
+\c@mincomprange=\count381
+\c@maxcomprange=\count382
+\c@mincompwidth=\count383
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1085,74 +1121,74 @@ File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count376
-\c@savedafterword=\count377
-\c@annotator=\count378
-\c@savedannotator=\count379
-\c@author=\count380
-\c@savedauthor=\count381
-\c@bookauthor=\count382
-\c@savedbookauthor=\count383
-\c@commentator=\count384
-\c@savedcommentator=\count385
-\c@editor=\count386
-\c@savededitor=\count387
-\c@editora=\count388
-\c@savededitora=\count389
-\c@editorb=\count390
-\c@savededitorb=\count391
-\c@editorc=\count392
-\c@savededitorc=\count393
-\c@foreword=\count394
-\c@savedforeword=\count395
-\c@holder=\count396
-\c@savedholder=\count397
-\c@introduction=\count398
-\c@savedintroduction=\count399
-\c@namea=\count400
-\c@savednamea=\count401
-\c@nameb=\count402
-\c@savednameb=\count403
-\c@namec=\count404
-\c@savednamec=\count405
-\c@translator=\count406
-\c@savedtranslator=\count407
-\c@shortauthor=\count408
-\c@savedshortauthor=\count409
-\c@shorteditor=\count410
-\c@savedshorteditor=\count411
-\c@labelname=\count412
-\c@savedlabelname=\count413
-\c@institution=\count414
-\c@savedinstitution=\count415
-\c@lista=\count416
-\c@savedlista=\count417
-\c@listb=\count418
-\c@savedlistb=\count419
-\c@listc=\count420
-\c@savedlistc=\count421
-\c@listd=\count422
-\c@savedlistd=\count423
-\c@liste=\count424
-\c@savedliste=\count425
-\c@listf=\count426
-\c@savedlistf=\count427
-\c@location=\count428
-\c@savedlocation=\count429
-\c@organization=\count430
-\c@savedorganization=\count431
-\c@origlocation=\count432
-\c@savedoriglocation=\count433
-\c@origpublisher=\count434
-\c@savedorigpublisher=\count435
-\c@publisher=\count436
-\c@savedpublisher=\count437
-\c@language=\count438
-\c@savedlanguage=\count439
-\c@origlanguage=\count440
-\c@savedoriglanguage=\count441
-\c@pageref=\count442
-\c@savedpageref=\count443
+\c@afterword=\count384
+\c@savedafterword=\count385
+\c@annotator=\count386
+\c@savedannotator=\count387
+\c@author=\count388
+\c@savedauthor=\count389
+\c@bookauthor=\count390
+\c@savedbookauthor=\count391
+\c@commentator=\count392
+\c@savedcommentator=\count393
+\c@editor=\count394
+\c@savededitor=\count395
+\c@editora=\count396
+\c@savededitora=\count397
+\c@editorb=\count398
+\c@savededitorb=\count399
+\c@editorc=\count400
+\c@savededitorc=\count401
+\c@foreword=\count402
+\c@savedforeword=\count403
+\c@holder=\count404
+\c@savedholder=\count405
+\c@introduction=\count406
+\c@savedintroduction=\count407
+\c@namea=\count408
+\c@savednamea=\count409
+\c@nameb=\count410
+\c@savednameb=\count411
+\c@namec=\count412
+\c@savednamec=\count413
+\c@translator=\count414
+\c@savedtranslator=\count415
+\c@shortauthor=\count416
+\c@savedshortauthor=\count417
+\c@shorteditor=\count418
+\c@savedshorteditor=\count419
+\c@labelname=\count420
+\c@savedlabelname=\count421
+\c@institution=\count422
+\c@savedinstitution=\count423
+\c@lista=\count424
+\c@savedlista=\count425
+\c@listb=\count426
+\c@savedlistb=\count427
+\c@listc=\count428
+\c@savedlistc=\count429
+\c@listd=\count430
+\c@savedlistd=\count431
+\c@liste=\count432
+\c@savedliste=\count433
+\c@listf=\count434
+\c@savedlistf=\count435
+\c@location=\count436
+\c@savedlocation=\count437
+\c@organization=\count438
+\c@savedorganization=\count439
+\c@origlocation=\count440
+\c@savedoriglocation=\count441
+\c@origpublisher=\count442
+\c@savedorigpublisher=\count443
+\c@publisher=\count444
+\c@savedpublisher=\count445
+\c@language=\count446
+\c@savedlanguage=\count447
+\c@origlanguage=\count448
+\c@savedoriglanguage=\count449
+\c@pageref=\count450
+\c@savedpageref=\count451
 \shorthandwidth=\skip94
 \shortjournalwidth=\skip95
 \shortserieswidth=\skip96
@@ -1182,19 +1218,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count444
-\c@textcitetotal=\count445
-\c@textcitemaxnames=\count446
-\c@biburlbigbreakpenalty=\count447
-\c@biburlbreakpenalty=\count448
-\c@biburlnumpenalty=\count449
-\c@biburlucpenalty=\count450
-\c@biburllcpenalty=\count451
+\c@textcitecount=\count452
+\c@textcitetotal=\count453
+\c@textcitemaxnames=\count454
+\c@biburlbigbreakpenalty=\count455
+\c@biburlbreakpenalty=\count456
+\c@biburlnumpenalty=\count457
+\c@biburlucpenalty=\count458
+\c@biburllcpenalty=\count459
 \biburlbigskip=\muskip22
 \biburlnumskip=\muskip23
 \biburlucskip=\muskip24
 \biburllcskip=\muskip25
-\c@smartand=\count452
+\c@smartand=\count460
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -1206,8 +1242,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count453
-\c@bbx:relatedtotal=\count454
+\c@bbx:relatedcount=\count461
+\c@bbx:relatedtotal=\count462
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -1245,7 +1281,7 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of KOMA-Script class, that doesn't
-(scrhack)             need that hack, on input line 128.
+(scrhack)             need that hack, on input line 131.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
@@ -1271,11 +1307,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count455
+\c@section@level=\count463
 )
-\@linkdim=\dimen262
-\Hy@linkcounter=\count456
-\Hy@pagecounter=\count457
+\@linkdim=\dimen266
+\Hy@linkcounter=\count464
+\Hy@pagecounter=\count465
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
@@ -1283,7 +1319,7 @@ File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count458
+\Hy@SavedSpaceFactor=\count466
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
@@ -1297,16 +1333,16 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count459
+\c@Hy@tempcnt=\count467
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen263
+\XeTeXLinkMargin=\dimen267
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
-\Fld@menulength=\count460
-\Field@Width=\dimen264
-\Fld@charsize=\dimen265
+\Fld@menulength=\count468
+\Field@Width=\dimen268
+\Fld@charsize=\dimen269
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -1319,9 +1355,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count461
-\c@Item=\count462
-\c@Hfootnote=\count463
+\Hy@abspage=\count469
+\c@Item=\count470
+\c@Hfootnote=\count471
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -1332,8 +1368,8 @@ File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\Fld@listcount=\count464
-\c@bookmark@seq@number=\count465
+\Fld@listcount=\count472
+\c@bookmark@seq@number=\count473
 \Hy@SectionHShift=\skip108
 )
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
@@ -1342,7 +1378,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count466
+\BKM@id=\count474
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/extdash.sty
 Package: extdash 2018/06/24 v1.3 Extended Dash Package (NCC)
@@ -1358,7 +1394,17 @@ Package color Info: Driver file: luatex.def on input line 149.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (./main.aux)
+ (./main.aux
+
+LaTeX Warning: Label `sec:QuestionC' multiply defined.
+
+
+LaTeX Warning: Label `tab:event11' multiply defined.
+
+
+LaTeX Warning: Label `sec:gauge_curves' multiply defined.
+
+)
 \openout1 = main.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1390,6 +1436,8 @@ Package scrbase Info: activating english \listfigurename on input line 12.
 Package scrbase Info: activating english \listtablename on input line 12.
 Package scrbase Info: activating english \refname on input line 12.
 Package scrbase Info: activating english \indexname on input line 12.
+\c@lstlisting=\count475
+Package scrhack Info: undefining \float@addtolists on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  TU/LatinModernMath(1)/m/n --> TU/lmr/m/n on input line 
 12.
@@ -1419,17 +1467,17 @@ Package chemgreek Info: Activating mapping `fontspec' on line 12.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count467
-\scratchdimen=\dimen266
-\scratchbox=\box72
-\nofMPsegments=\count468
-\nofMParguments=\count469
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count470
-\MPscratchDim=\dimen267
-\MPnumerator=\count471
-\makeMPintoPDFobject=\count472
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count476
+\scratchdimen=\dimen270
+\scratchbox=\box74
+\nofMPsegments=\count477
+\nofMParguments=\count478
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count479
+\MPscratchDim=\dimen271
+\MPnumerator=\count480
+\makeMPintoPDFobject=\count481
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1504,226 +1552,696 @@ Package microtype Info: Loading generic protrusion settings for font family
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package tocbasic Info: character protrusion at toc deactivated on input line 16
 .
- (./main.toc)
-\tf@toc=\write4
-
-\openout4 = main.toc
- [2
-
-] (./content/w-mass.tex
-<../W_mass/Z_mass_check_phi_positive.pdf, id=41, 569.12625pt x 530.98375pt>
-File: ../W_mass/Z_mass_check_phi_positive.pdf Graphic file (type pdf)
-<use ../W_mass/Z_mass_check_phi_positive.pdf>
-Package luatex.def Info: ../W_mass/Z_mass_check_phi_positive.pdf  used on input
- line 13.
-(luatex.def)             Requested size: 292.7776pt x 273.16394pt.
-
-[3<../W_mass/Z_mass_check_phi_positive.pdf>]
+ (./main.toc
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [4]
-<../W_mass/ptw_100_0_100_qcd0-42.pdf, id=106, 569.12625pt x 388.45125pt>
+
+Missing character: There is no µ (U+00B5) in font cmmi10!
+[2
+
+])
+\tf@toc=\write4
+
+\openout4 = main.toc
+ [3] (./content/day1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+<../figures/LearningData_electron.pdf, id=129, 557.08125pt x 588.1975pt>
+File: ../figures/LearningData_electron.pdf Graphic file (type pdf)
+<use ../figures/LearningData_electron.pdf>
+Package luatex.def Info: ../figures/LearningData_electron.pdf  used on input li
+ne 20.
+(luatex.def)             Requested size: 188.21371pt x 198.719pt.
+<../figures/LearningData_muon.pdf, id=130, 557.08125pt x 580.1675pt>
+File: ../figures/LearningData_muon.pdf Graphic file (type pdf)
+<use ../figures/LearningData_muon.pdf>
+Package luatex.def Info: ../figures/LearningData_muon.pdf  used on input line 2
+6.
+(luatex.def)             Requested size: 188.21371pt x 196.0061pt.
+<../figures/LearningData_photon.pdf, id=131, 557.08125pt x 588.1975pt>
+File: ../figures/LearningData_photon.pdf Graphic file (type pdf)
+<use ../figures/LearningData_photon.pdf>
+Package luatex.def Info: ../figures/LearningData_photon.pdf  used on input line
+ 32.
+(luatex.def)             Requested size: 188.21371pt x 198.719pt.
+<../figures/LearningData_tau.pdf, id=132, 557.08125pt x 580.1675pt>
+File: ../figures/LearningData_tau.pdf Graphic file (type pdf)
+<use ../figures/LearningData_tau.pdf>
+Package luatex.def Info: ../figures/LearningData_tau.pdf  used on input line 38
+.
+(luatex.def)             Requested size: 188.21371pt x 196.0061pt.
+<../figures/LearningData_dijet.pdf, id=133, 557.08125pt x 588.1975pt>
+File: ../figures/LearningData_dijet.pdf Graphic file (type pdf)
+<use ../figures/LearningData_dijet.pdf>
+Package luatex.def Info: ../figures/LearningData_dijet.pdf  used on input line 
+45.
+(luatex.def)             Requested size: 188.21371pt x 198.719pt.
+
+LaTeX Warning: Float too large for page by 87.35672pt on input line 51.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5<../figures/LearningData_electron.pdf><../figures/LearningData_muon.pdf><.
+./figures/LearningData_photon.pdf><../figures/LearningData_tau.pdf><../figures/L
+earningData_dijet.pdf>] [6
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 79.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 79.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 79.
+
+[7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<../figures/elecpositscatter.pdf, id=279, 327.89166pt x 187.36667pt>
+File: ../figures/elecpositscatter.pdf Graphic file (type pdf)
+<use ../figures/elecpositscatter.pdf>
+Package luatex.def Info: ../figures/elecpositscatter.pdf  used on input line 13
+0.
+(luatex.def)             Requested size: 209.12778pt x 119.4997pt.
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman8-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman8-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman8-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman8-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman8-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman10-bold]:+tlig;!
+Missing character: There is no 𝜏 (U+1D70F) in font [lmroman8-bold]:+tlig;!
+[8<../figures/elecpositscatter.pdf>]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 174.
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+Missing character: There is no µ (U+00B5) in font cmmi12!
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 208.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 208.
+
+[9]
+<../figures/EnergyLoss.pdf, id=328, 462.528pt x 346.896pt>
+File: ../figures/EnergyLoss.pdf Graphic file (type pdf)
+<use ../figures/EnergyLoss.pdf>
+Package luatex.def Info: ../figures/EnergyLoss.pdf  used on input line 225.
+(luatex.def)             Requested size: 418.25555pt x 313.70677pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11<../figures/EnergyLoss.pdf>]
+<../figures/mystery-event6.pdf, id=385, 557.08125pt x 580.1675pt>
+File: ../figures/mystery-event6.pdf Graphic file (type pdf)
+<use ../figures/mystery-event6.pdf>
+Package luatex.def Info: ../figures/mystery-event6.pdf  used on input line 252.
+
+(luatex.def)             Requested size: 209.12778pt x 217.79243pt.
+<../figures/DrellYan001.pdf, id=387, 365.86688pt x 299.61937pt>
+File: ../figures/DrellYan001.pdf Graphic file (type pdf)
+<use ../figures/DrellYan001.pdf>
+Package luatex.def Info: ../figures/DrellYan001.pdf  used on input line 262.
+(luatex.def)             Requested size: 209.12778pt x 171.26028pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12<../figures/mystery-event6.pdf>]
+<../figures/mystery-event11.pdf, id=416, 557.08125pt x 580.1675pt>
+File: ../figures/mystery-event11.pdf Graphic file (type pdf)
+<use ../figures/mystery-event11.pdf>
+Package luatex.def Info: ../figures/mystery-event11.pdf  used on input line 274
+.
+(luatex.def)             Requested size: 209.12778pt x 217.79243pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13<../figures/DrellYan001.pdf>] [14<../figures/mystery-event11.pdf>]
+<../figures/ggFusion.pdf, id=462, 321.2pt x 306.47833pt>
+File: ../figures/ggFusion.pdf Graphic file (type pdf)
+<use ../figures/ggFusion.pdf>
+Package luatex.def Info: ../figures/ggFusion.pdf  used on input line 321.
+(luatex.def)             Requested size: 188.21371pt x 179.59073pt.
+<../figures/qqscattering.pdf, id=463, 394.80833pt x 204.765pt>
+File: ../figures/qqscattering.pdf Graphic file (type pdf)
+<use ../figures/qqscattering.pdf>
+Package luatex.def Info: ../figures/qqscattering.pdf  used on input line 327.
+(luatex.def)             Requested size: 188.21371pt x 97.61743pt.
+<../figures/mystery-event20.pdf, id=467, 557.08125pt x 580.1675pt>
+File: ../figures/mystery-event20.pdf Graphic file (type pdf)
+<use ../figures/mystery-event20.pdf>
+Package luatex.def Info: ../figures/mystery-event20.pdf  used on input line 349
+.
+(luatex.def)             Requested size: 209.12778pt x 217.79243pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15<../figures/ggFusion.pdf><../figures/qqscattering.pdf>]
+<../figures/bdecay.pdf, id=508, 521.95pt x 287.74167pt>
+File: ../figures/bdecay.pdf Graphic file (type pdf)
+<use ../figures/bdecay.pdf>
+Package luatex.def Info: ../figures/bdecay.pdf  used on input line 357.
+(luatex.def)             Requested size: 209.12778pt x 115.28781pt.
+<../figures/mystery-event45.pdf, id=511, 557.08125pt x 580.1675pt>
+File: ../figures/mystery-event45.pdf Graphic file (type pdf)
+<use ../figures/mystery-event45.pdf>
+Package luatex.def Info: ../figures/mystery-event45.pdf  used on input line 369
+.
+(luatex.def)             Requested size: 209.12778pt x 217.79243pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16<../figures/mystery-event20.pdf><../figures/bdecay.pdf>] [17<../figures/myste
+ry-event45.pdf>]
+<../figures/electron_E_histogram_raw.pdf, id=587, 569.12625pt x 388.45125pt>
+File: ../figures/electron_E_histogram_raw.pdf Graphic file (type pdf)
+<use ../figures/electron_E_histogram_raw.pdf>
+Package luatex.def Info: ../figures/electron_E_histogram_raw.pdf  used on input
+ line 423.
+(luatex.def)             Requested size: 209.12778pt x 142.74077pt.
+<../figures/postitron_E_hist_raw.pdf, id=588, 569.12625pt x 399.4925pt>
+File: ../figures/postitron_E_hist_raw.pdf Graphic file (type pdf)
+<use ../figures/postitron_E_hist_raw.pdf>
+Package luatex.def Info: ../figures/postitron_E_hist_raw.pdf  used on input lin
+e 429.
+(luatex.def)             Requested size: 209.12778pt x 146.798pt.
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 422--433
+[][]  [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18]
+<../figures/z_fit_raw.pdf, id=601, 569.12625pt x 388.45125pt>
+File: ../figures/z_fit_raw.pdf Graphic file (type pdf)
+<use ../figures/z_fit_raw.pdf>
+Package luatex.def Info: ../figures/z_fit_raw.pdf  used on input line 445.
+(luatex.def)             Requested size: 334.60571pt x 228.38998pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19<../figures/electron_E_histogram_raw.pdf><../figures/postitron_E_hist_raw.pdf
+>]
+<../figures/eta_05-1_bin.pdf, id=699, 569.12625pt x 388.45125pt>
+File: ../figures/eta_05-1_bin.pdf Graphic file (type pdf)
+<use ../figures/eta_05-1_bin.pdf>
+Package luatex.def Info: ../figures/eta_05-1_bin.pdf  used on input line 453.
+(luatex.def)             Requested size: 334.60571pt x 228.38998pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20<../figures/z_fit_raw.pdf><../figures/eta_05-1_bin.pdf>]
+<../figures/full_eta_cuts.pdf, id=796, 569.12625pt x 394.47375pt>
+File: ../figures/full_eta_cuts.pdf Graphic file (type pdf)
+<use ../figures/full_eta_cuts.pdf>
+Package luatex.def Info: ../figures/full_eta_cuts.pdf  used on input line 464.
+(luatex.def)             Requested size: 334.60571pt x 231.93092pt.
+<../figures/energy_and_eta_cuts.pdf, id=798, 569.12625pt x 388.45125pt>
+File: ../figures/energy_and_eta_cuts.pdf Graphic file (type pdf)
+<use ../figures/energy_and_eta_cuts.pdf>
+Package luatex.def Info: ../figures/energy_and_eta_cuts.pdf  used on input line
+ 472.
+(luatex.def)             Requested size: 334.60571pt x 228.38998pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21
+
+<../figures/full_eta_cuts.pdf>]
+<../figures/course_eta_cuts.pdf, id=853, 569.12625pt x 388.45125pt>
+File: ../figures/course_eta_cuts.pdf Graphic file (type pdf)
+<use ../figures/course_eta_cuts.pdf>
+Package luatex.def Info: ../figures/course_eta_cuts.pdf  used on input line 480
+.
+(luatex.def)             Requested size: 334.60571pt x 228.38998pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22<../figures/energy_and_eta_cuts.pdf>]) (./content/w-mass.tex [23<../figures/c
+ourse_eta_cuts.pdf>]
+<../W_mass/Z_mass_check_el_pt-cut.pdf, id=961, 569.12625pt x 378.41376pt>
+File: ../W_mass/Z_mass_check_el_pt-cut.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_el_pt-cut.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_el_pt-cut.pdf  used on input li
+ne 17.
+(luatex.def)             Requested size: 209.12778pt x 139.05238pt.
+<../W_mass/Z_mass_check_el_pt-cut-small.pdf, id=962, 569.12625pt x 411.5375pt>
+File: ../W_mass/Z_mass_check_el_pt-cut-small.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_el_pt-cut-small.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_el_pt-cut-small.pdf  used on in
+put line 21.
+(luatex.def)             Requested size: 209.12778pt x 151.22408pt.
+<../W_mass/Z_mass_check_el_pt-cut-critical.pdf, id=963, 569.12625pt x 465.74pt>
+
+File: ../W_mass/Z_mass_check_el_pt-cut-critical.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_el_pt-cut-critical.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_el_pt-cut-critical.pdf  used on
+ input line 25.
+(luatex.def)             Requested size: 209.12778pt x 171.1414pt.
+<../W_mass/Z_mass_check_eta_large.pdf, id=964, 569.12625pt x 374.39874pt>
+File: ../W_mass/Z_mass_check_eta_large.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_eta_large.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_eta_large.pdf  used on input li
+ne 29.
+(luatex.def)             Requested size: 209.12778pt x 137.57703pt.
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 16--32
+[][] []
+ []
+
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 16--32
+[] [] 
+ []
+
+<../W_mass/Z_mass_check_eta-small_pt-large.pdf, id=965, 569.12625pt x 417.56pt>
+
+File: ../W_mass/Z_mass_check_eta-small_pt-large.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_eta-small_pt-large.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_eta-small_pt-large.pdf  used on
+ input line 37.
+(luatex.def)             Requested size: 209.12778pt x 153.4371pt.
+<../W_mass/Z_mass_check_eta-small_pt-small.pdf, id=966, 569.12625pt x 448.67625
+pt>
+File: ../W_mass/Z_mass_check_eta-small_pt-small.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_eta-small_pt-small.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_eta-small_pt-small.pdf  used on
+ input line 41.
+(luatex.def)             Requested size: 209.12778pt x 164.87114pt.
+<../W_mass/Z_mass_check_phi_negative.pdf, id=967, 569.12625pt x 530.98375pt>
+File: ../W_mass/Z_mass_check_phi_negative.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_phi_negative.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_phi_negative.pdf  used on input
+ line 45.
+(luatex.def)             Requested size: 209.12778pt x 195.11595pt.
+<../W_mass/Z_mass_check_phi_positive.pdf, id=968, 569.12625pt x 530.98375pt>
+File: ../W_mass/Z_mass_check_phi_positive.pdf Graphic file (type pdf)
+<use ../W_mass/Z_mass_check_phi_positive.pdf>
+Package luatex.def Info: ../W_mass/Z_mass_check_phi_positive.pdf  used on input
+ line 49.
+(luatex.def)             Requested size: 209.12778pt x 195.11595pt.
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 36--52
+[][] []
+ []
+
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 36--52
+[] [] 
+ []
+
+[24] [25<../W_mass/Z_mass_check_el_pt-cut.pdf><../W_mass/Z_mass_check_el_pt-cut-
+small.pdf><../W_mass/Z_mass_check_el_pt-cut-critical.pdf><../W_mass/Z_mass_check
+_eta_large.pdf>] [26<../W_mass/Z_mass_check_eta-small_pt-large.pdf><../W_mass/Z_
+mass_check_eta-small_pt-small.pdf><../W_mass/Z_mass_check_phi_negative.pdf><../W
+_mass/Z_mass_check_phi_positive.pdf>]
+<../W_mass/ptw_100_0_100_qcd0-42.pdf, id=1344, 569.12625pt x 388.45125pt>
 File: ../W_mass/ptw_100_0_100_qcd0-42.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_100_0_100_qcd0-42.pdf>
 Package luatex.def Info: ../W_mass/ptw_100_0_100_qcd0-42.pdf  used on input lin
-e 87.
+e 128.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
-<../W_mass/njet_100_0_5_qcd0-42.pdf, id=107, 569.12625pt x 388.45125pt>
+<../W_mass/njet_100_0_5_qcd0-42.pdf, id=1345, 569.12625pt x 388.45125pt>
 File: ../W_mass/njet_100_0_5_qcd0-42.pdf Graphic file (type pdf)
 <use ../W_mass/njet_100_0_5_qcd0-42.pdf>
 Package luatex.def Info: ../W_mass/njet_100_0_5_qcd0-42.pdf  used on input line
- 90.
+ 131.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
-<../W_mass/elpt_100_25_100_qcd0-35.pdf, id=108, 569.12625pt x 388.45125pt>
+<../W_mass/elpt_100_25_100_qcd0-35.pdf, id=1346, 569.12625pt x 388.45125pt>
 File: ../W_mass/elpt_100_25_100_qcd0-35.pdf Graphic file (type pdf)
 <use ../W_mass/elpt_100_25_100_qcd0-35.pdf>
 Package luatex.def Info: ../W_mass/elpt_100_25_100_qcd0-35.pdf  used on input l
-ine 93.
+ine 134.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
-<../W_mass/etmis_100_0_100_qcd0-3.pdf, id=109, 569.12625pt x 388.45125pt>
+<../W_mass/etmis_100_0_100_qcd0-3.pdf, id=1347, 569.12625pt x 388.45125pt>
 File: ../W_mass/etmis_100_0_100_qcd0-3.pdf Graphic file (type pdf)
 <use ../W_mass/etmis_100_0_100_qcd0-3.pdf>
 Package luatex.def Info: ../W_mass/etmis_100_0_100_qcd0-3.pdf  used on input li
-ne 96.
+ne 137.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 86--98
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 127--139
 [][] []
  []
 
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 86--98
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 127--139
 [] [] 
  []
 
-[5]
-<../W_mass/ptw_njet0.pdf, id=121, 569.12625pt x 396.48125pt>
+[27]
+<../W_mass/ptw_njet0.pdf, id=1359, 569.12625pt x 396.48125pt>
 File: ../W_mass/ptw_njet0.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_njet0.pdf>
-Package luatex.def Info: ../W_mass/ptw_njet0.pdf  used on input line 121.
+Package luatex.def Info: ../W_mass/ptw_njet0.pdf  used on input line 162.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
-<../W_mass/ptw_njet1.pdf, id=122, 569.12625pt x 396.48125pt>
+<../W_mass/ptw_njet1.pdf, id=1360, 569.12625pt x 396.48125pt>
 File: ../W_mass/ptw_njet1.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_njet1.pdf>
-Package luatex.def Info: ../W_mass/ptw_njet1.pdf  used on input line 125.
+Package luatex.def Info: ../W_mass/ptw_njet1.pdf  used on input line 166.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
-<../W_mass/ptw_njet2.pdf, id=123, 569.12625pt x 396.48125pt>
+<../W_mass/ptw_njet2.pdf, id=1361, 569.12625pt x 396.48125pt>
 File: ../W_mass/ptw_njet2.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_njet2.pdf>
-Package luatex.def Info: ../W_mass/ptw_njet2.pdf  used on input line 129.
+Package luatex.def Info: ../W_mass/ptw_njet2.pdf  used on input line 170.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
-<../W_mass/ptw_njet3.pdf, id=124, 569.12625pt x 396.48125pt>
+<../W_mass/ptw_njet3.pdf, id=1362, 569.12625pt x 396.48125pt>
 File: ../W_mass/ptw_njet3.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_njet3.pdf>
-Package luatex.def Info: ../W_mass/ptw_njet3.pdf  used on input line 133.
+Package luatex.def Info: ../W_mass/ptw_njet3.pdf  used on input line 174.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
-<../W_mass/ptw_njet4.pdf, id=125, 569.12625pt x 396.48125pt>
+<../W_mass/ptw_njet4.pdf, id=1363, 569.12625pt x 396.48125pt>
 File: ../W_mass/ptw_njet4.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_njet4.pdf>
-Package luatex.def Info: ../W_mass/ptw_njet4.pdf  used on input line 137.
+Package luatex.def Info: ../W_mass/ptw_njet4.pdf  used on input line 178.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 120--140
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 161--181
 [][] []
  []
 
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 120--140
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 161--181
 [] []
  []
 
-[6<../W_mass/ptw_100_0_100_qcd0-42.pdf><../W_mass/njet_100_0_5_qcd0-42.pdf><../W
-_mass/elpt_100_25_100_qcd0-35.pdf><../W_mass/etmis_100_0_100_qcd0-3.pdf>]
-[7<../W_mass/ptw_njet0.pdf><../W_mass/ptw_njet1.pdf><../W_mass/ptw_njet2.pdf><..
-/W_mass/ptw_njet3.pdf><../W_mass/ptw_njet4.pdf>]
-<../W_mass/final_ptw_qcd0-33.pdf, id=542, 569.12625pt x 396.48125pt>
+[28<../W_mass/ptw_100_0_100_qcd0-42.pdf><../W_mass/njet_100_0_5_qcd0-42.pdf><../
+W_mass/elpt_100_25_100_qcd0-35.pdf><../W_mass/etmis_100_0_100_qcd0-3.pdf>]
+<../W_mass/final_ptw_qcd0-33.pdf, id=1553, 569.12625pt x 396.48125pt>
 File: ../W_mass/final_ptw_qcd0-33.pdf Graphic file (type pdf)
 <use ../W_mass/final_ptw_qcd0-33.pdf>
-Package luatex.def Info: ../W_mass/final_ptw_qcd0-33.pdf  used on input line 17
-6.
+Package luatex.def Info: ../W_mass/final_ptw_qcd0-33.pdf  used on input line 21
+7.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
-<../W_mass/final_ptw_qcd0-35.pdf, id=543, 569.12625pt x 396.48125pt>
+<../W_mass/final_ptw_qcd0-35.pdf, id=1554, 569.12625pt x 396.48125pt>
 File: ../W_mass/final_ptw_qcd0-35.pdf Graphic file (type pdf)
 <use ../W_mass/final_ptw_qcd0-35.pdf>
-Package luatex.def Info: ../W_mass/final_ptw_qcd0-35.pdf  used on input line 18
-0.
+Package luatex.def Info: ../W_mass/final_ptw_qcd0-35.pdf  used on input line 22
+1.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
-<../W_mass/final_ptw_qcd0-37.pdf, id=544, 569.12625pt x 396.48125pt>
+<../W_mass/final_ptw_qcd0-37.pdf, id=1555, 569.12625pt x 396.48125pt>
 File: ../W_mass/final_ptw_qcd0-37.pdf Graphic file (type pdf)
 <use ../W_mass/final_ptw_qcd0-37.pdf>
-Package luatex.def Info: ../W_mass/final_ptw_qcd0-37.pdf  used on input line 18
-4.
+Package luatex.def Info: ../W_mass/final_ptw_qcd0-37.pdf  used on input line 22
+5.
 (luatex.def)             Requested size: 209.12778pt x 145.69148pt.
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 175--188
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 216--229
 [][] []
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 193--208
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--208
+Underfull \hbox (badness 10000) in paragraph at lines 235--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--208
+Underfull \hbox (badness 10000) in paragraph at lines 235--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--208
+Underfull \hbox (badness 10000) in paragraph at lines 235--250
 
  []
 
-[9<../W_mass/final_ptw_qcd0-33.pdf><../W_mass/final_ptw_qcd0-35.pdf><../W_mass/f
-inal_ptw_qcd0-37.pdf>]
-<../W_mass/el_pt_final_cut_selection.pdf, id=695, 569.12625pt x 583.17876pt>
+[29] [30<../W_mass/ptw_njet0.pdf><../W_mass/ptw_njet1.pdf><../W_mass/ptw_njet2.p
+df><../W_mass/ptw_njet3.pdf><../W_mass/ptw_njet4.pdf>] [31<../W_mass/final_ptw_q
+cd0-33.pdf><../W_mass/final_ptw_qcd0-35.pdf><../W_mass/final_ptw_qcd0-37.pdf>]
+<../W_mass/el_pt_final_cut_selection.pdf, id=1931, 569.12625pt x 583.17876pt>
 File: ../W_mass/el_pt_final_cut_selection.pdf Graphic file (type pdf)
 <use ../W_mass/el_pt_final_cut_selection.pdf>
 Package luatex.def Info: ../W_mass/el_pt_final_cut_selection.pdf  used on input
- line 214.
+ line 256.
 (luatex.def)             Requested size: 250.95587pt x 257.15115pt.
-) (./content/appendix.tex
-<../W_mass/ptw_100_0_100_qcd1.pdf, id=697, 569.12625pt x 388.45125pt>
+ [32]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 264.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 264.
+
+<../W_mass/gauge1.pdf, id=1945, 462.528pt x 346.896pt>
+File: ../W_mass/gauge1.pdf Graphic file (type pdf)
+<use ../W_mass/gauge1.pdf>
+Package luatex.def Info: ../W_mass/gauge1.pdf  used on input line 283.
+(luatex.def)             Requested size: 292.7776pt x 219.59367pt.
+[33<../W_mass/el_pt_final_cut_selection.pdf>] [34<../W_mass/gauge1.pdf>]
+[35] [36] [37]) (./content/discussion.tex [38]) (./content/appendix.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40] [41]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 141.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 141.
+
+[42
+
+]
+Overfull \hbox (28.50806pt too wide) in paragraph at lines 155--156
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 156--157
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 157--158
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (28.50806pt too wide) in paragraph at lines 163--164
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 164--165
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 165--166
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (28.50806pt too wide) in paragraph at lines 171--172
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 172--173
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 173--174
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.07811pt too wide) in paragraph at lines 179--180
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 192.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 192.
+
+[43]
+<../W_mass/ptw_100_0_100_qcd1.pdf, id=2199, 569.12625pt x 388.45125pt>
 File: ../W_mass/ptw_100_0_100_qcd1.pdf Graphic file (type pdf)
 <use ../W_mass/ptw_100_0_100_qcd1.pdf>
-Package luatex.def Info: ../W_mass/ptw_100_0_100_qcd1.pdf  used on input line 6
-.
+Package luatex.def Info: ../W_mass/ptw_100_0_100_qcd1.pdf  used on input line 2
+16.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
-<../W_mass/njet_100_0_5_qcd1.pdf, id=698, 569.12625pt x 388.45125pt>
+<../W_mass/njet_100_0_5_qcd1.pdf, id=2200, 569.12625pt x 388.45125pt>
 File: ../W_mass/njet_100_0_5_qcd1.pdf Graphic file (type pdf)
 <use ../W_mass/njet_100_0_5_qcd1.pdf>
-Package luatex.def Info: ../W_mass/njet_100_0_5_qcd1.pdf  used on input line 9.
-
+Package luatex.def Info: ../W_mass/njet_100_0_5_qcd1.pdf  used on input line 21
+9.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
-<../W_mass/elpt_100_25_100_qcd1.pdf, id=699, 569.12625pt x 388.45125pt>
+<../W_mass/elpt_100_25_100_qcd1.pdf, id=2201, 569.12625pt x 388.45125pt>
 File: ../W_mass/elpt_100_25_100_qcd1.pdf Graphic file (type pdf)
 <use ../W_mass/elpt_100_25_100_qcd1.pdf>
 Package luatex.def Info: ../W_mass/elpt_100_25_100_qcd1.pdf  used on input line
- 12.
+ 222.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
-<../W_mass/etmis_100_0_100_qcd1.pdf, id=700, 569.12625pt x 388.45125pt>
+<../W_mass/etmis_100_0_100_qcd1.pdf, id=2202, 569.12625pt x 388.45125pt>
 File: ../W_mass/etmis_100_0_100_qcd1.pdf Graphic file (type pdf)
 <use ../W_mass/etmis_100_0_100_qcd1.pdf>
 Package luatex.def Info: ../W_mass/etmis_100_0_100_qcd1.pdf  used on input line
- 15.
+ 225.
 (luatex.def)             Requested size: 209.12778pt x 142.74077pt.
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 5--17
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 215--227
 [][] []
  []
 
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 5--17
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 215--227
 [] [] 
  []
 
-) [10<../W_mass/el_pt_final_cut_selection.pdf>] [11<../W_mass/ptw_100_0_100_qcd1
-.pdf><../W_mass/njet_100_0_5_qcd1.pdf><../W_mass/elpt_100_25_100_qcd1.pdf><../W_
-mass/etmis_100_0_100_qcd1.pdf>] [12] (./main.aux)
+<../W_mass/gauge_curve_cuts1.pdf, id=2203, 569.12625pt x 291.0875pt>
+File: ../W_mass/gauge_curve_cuts1.pdf Graphic file (type pdf)
+<use ../W_mass/gauge_curve_cuts1.pdf>
+Package luatex.def Info: ../W_mass/gauge_curve_cuts1.pdf  used on input line 23
+3.
+(luatex.def)             Requested size: 334.60571pt x 171.14494pt.
+<../W_mass/gauge_curve_etmis24.pdf, id=2204, 569.12625pt x 291.0875pt>
+File: ../W_mass/gauge_curve_etmis24.pdf Graphic file (type pdf)
+<use ../W_mass/gauge_curve_etmis24.pdf>
+Package luatex.def Info: ../W_mass/gauge_curve_etmis24.pdf  used on input line 
+243.
+(luatex.def)             Requested size: 334.60571pt x 171.14494pt.
+<../W_mass/final_gauge_curv.pdf, id=2205, 462.528pt x 346.896pt>
+File: ../W_mass/final_gauge_curv.pdf Graphic file (type pdf)
+<use ../W_mass/final_gauge_curv.pdf>
+Package luatex.def Info: ../W_mass/final_gauge_curv.pdf  used on input line 250
+.
+(luatex.def)             Requested size: 334.60571pt x 250.96648pt.
+) [44<../W_mass/ptw_100_0_100_qcd1.pdf><../W_mass/njet_100_0_5_qcd1.pdf><../W_ma
+ss/elpt_100_25_100_qcd1.pdf><../W_mass/etmis_100_0_100_qcd1.pdf>] [45<../W_mass/
+gauge_curve_cuts1.pdf><../W_mass/gauge_curve_etmis24.pdf>] [46<../W_mass/final_g
+auge_curv.pdf>] [47] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.aux' has not changed.
-(rerunfilecheck)             Checksum: 6571FF5B7CDF5308C16CE4C3ACA38694;8755.
+(rerunfilecheck)             Checksum: 440E92D9443A6FF85BEEB8BDFC91EC79;45842.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.toc' has not changed.
-(rerunfilecheck)             Checksum: 7F619ED2DDD35C396B70064E566B01CC;920.
+(rerunfilecheck)             Checksum: 0A2A68825F92C99D42F56A538E913964;4291.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 38215 strings out of 476553
- 100000,2373549 words of node,token memory allocated
- 717 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 19
- attribute, 79 glue_spec, 11 attribute_list, 1 write nodes
-   avail lists: 1:3,2:741,3:153,4:68,5:296,6:43,7:5873,8:29,9:356,10:11,11:346,1
-2:1
- 59530 multiletter control sequences out of 65536+600000
- 99 fonts using 37582991 bytes
+ 40404 strings out of 476553
+ 125009,2373549 words of node,token memory allocated
+ 971 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 1 margin_ke
+rn, 3 glyph, 97 attribute, 80 glue_spec, 50 attribute_list, 1 write, 3 pdf_actio
+n nodes
+   avail lists: 1:6,2:3991,3:484,4:199,5:899,6:107,7:7814,8:72,9:3878,10:15,11:5
+22,12:1
+ 61369 multiletter control sequences out of 65536+600000
+ 180 fonts using 71436047 bytes
  113i,14n,109p,10917b,2936s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
-f/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype
-/public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono10
--regular.otf></usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.ot
-f></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texm
-f/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/ope
-ntype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opentype/publi
-c/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-
-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on main.pdf (12 pages, 434529 bytes).
+</usr/share/texmf/fonts/opentype/public/lm/lmromancaps10-regular.otf></usr/share
+/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texmf/fonts/ope
+ntype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/
+lmmonolt10-bold.otf></usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-
+math.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman5-bold.otf></usr/shar
+e/texmf/fonts/opentype/public/lm/lmroman8-bold.otf></usr/share/texmf/fonts/opent
+ype/public/lm/lmroman10-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmro
+man9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-bold.otf></
+usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/
+fonts/opentype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opent
+ype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opentype/public/
+lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-re
+gular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.otf>
+Output written on main.pdf (47 pages, 8743718 bytes).
 
-PDF statistics: 1044 PDF objects out of 1200 (max. 8388607)
- 522 compressed objects within 6 object streams
- 34 named destinations out of 1000 (max. 131072)
- 81 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 2820 PDF objects out of 2984 (max. 8388607)
+ 1652 compressed objects within 17 object streams
+ 253 named destinations out of 1000 (max. 131072)
+ 385 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -19,26 +19,251 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{manual}{manual}{}
-      \name{author}{1}{}{%
-        {{hash=395619ab54d62ddb5b27f6dfe9d4390d}{%
-           family={Bonn},
-           familyi={B\bibinitperiod},
-           given={Physikalisches\bibnamedelimb Institut\bibnamedelima University},
-           giveni={P\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+    \entry{belle2_taumass2023}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=99452bce71b1840696b3706a53dbdb4d}{%
+           family={Adachi},
+           familyi={A\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ff9c1e9b92e285d6ef24e0cc95e2f48e}{%
+           family={Adamczyk},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4e23ef90fa6bd735eba4460e95f0b88b}{%
+           family={Aggarwal},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
       }
-      \strng{namehash}{395619ab54d62ddb5b27f6dfe9d4390d}
-      \strng{fullhash}{395619ab54d62ddb5b27f6dfe9d4390d}
-      \strng{bibnamehash}{395619ab54d62ddb5b27f6dfe9d4390d}
-      \strng{authorbibnamehash}{395619ab54d62ddb5b27f6dfe9d4390d}
-      \strng{authornamehash}{395619ab54d62ddb5b27f6dfe9d4390d}
-      \strng{authorfullhash}{395619ab54d62ddb5b27f6dfe9d4390d}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \strng{namehash}{d64c4738480f423d026f5ffa6c69fb17}
+      \strng{fullhash}{d64c4738480f423d026f5ffa6c69fb17}
+      \strng{bibnamehash}{d64c4738480f423d026f5ffa6c69fb17}
+      \strng{authorbibnamehash}{d64c4738480f423d026f5ffa6c69fb17}
+      \strng{authornamehash}{d64c4738480f423d026f5ffa6c69fb17}
+      \strng{authorfullhash}{d64c4738480f423d026f5ffa6c69fb17}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Instruction manual}
+      \field{journaltitle}{Physical Review D}
+      \field{number}{3}
+      \field{title}{Measurement of the $\tau$-lepton mass with the Belle II experiment}
+      \field{volume}{108}
+      \field{year}{2023}
+      \field{pages}{032006}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.108.032006
+      \endverb
+    \endentry
+    \entry{hanagaki2023pid}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=c8241c5dae66c1eca2e017f7b63567e8}{%
+           family={Hanagaki},
+           familyi={H\bibinitperiod},
+           given={Kazunori},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6c04aabf172fcd55ac2cf5d5fa4bfa21}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Junichi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=21d4d52db84c86adf23866d9cf0df85b}{%
+           family={Tomoto},
+           familyi={T\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8b115bfe7872718c321525a8be71134f}{%
+           family={Yamazaki},
+           familyi={Y\bibinitperiod},
+           given={Yuji},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1a70b3c64f2b29f7294108718111dae5}
+      \strng{fullhash}{8acea20f831ca61e73a8062c0d808bfd}
+      \strng{bibnamehash}{1a70b3c64f2b29f7294108718111dae5}
+      \strng{authorbibnamehash}{1a70b3c64f2b29f7294108718111dae5}
+      \strng{authornamehash}{1a70b3c64f2b29f7294108718111dae5}
+      \strng{authorfullhash}{8acea20f831ca61e73a8062c0d808bfd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Experimental Techniques in Modern High-Energy Physics, A Beginner's Guide}
+      \field{month}{1}
+      \field{series}{Lecture Notes in Physics}
+      \field{title}{Particle Identification}
+      \field{volume}{993}
+      \field{year}{2023}
+      \field{pages}{69\bibrangedash 114}
+      \range{pages}{46}
+      \verb{doi}
+      \verb 10.1007/978-4-431-56931-2_6
+      \endverb
+    \endentry
+    \entry{nistmec2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ef9cb61878e61d434507444346b29d1a}{%
+           family={{National Institute of Standards and Technology}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef9cb61878e61d434507444346b29d1a}
+      \strng{fullhash}{ef9cb61878e61d434507444346b29d1a}
+      \strng{bibnamehash}{ef9cb61878e61d434507444346b29d1a}
+      \strng{authorbibnamehash}{ef9cb61878e61d434507444346b29d1a}
+      \strng{authornamehash}{ef9cb61878e61d434507444346b29d1a}
+      \strng{authorfullhash}{ef9cb61878e61d434507444346b29d1a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://physics.nist.gov/cgi-bin/cuu/Value?mec2mev}}
+      \field{note}{Accessed: 2025-05-24}
+      \field{title}{CODATA Value: electron mass energy equivalent in MeV}
       \field{year}{2025}
+    \endentry
+    \entry{PDG2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=25b6d239864c97a90ec8be94cdea417d}{%
+           family={Navas},
+           familyi={N\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e02c695d9a57f6e8669b26d9be3e077}
+      \strng{fullhash}{9e02c695d9a57f6e8669b26d9be3e077}
+      \strng{bibnamehash}{9e02c695d9a57f6e8669b26d9be3e077}
+      \strng{authorbibnamehash}{9e02c695d9a57f6e8669b26d9be3e077}
+      \strng{authornamehash}{9e02c695d9a57f6e8669b26d9be3e077}
+      \strng{authorfullhash}{9e02c695d9a57f6e8669b26d9be3e077}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{note}{Particle Data Group}
+      \field{number}{3}
+      \field{title}{Review of Particle Physics}
+      \field{volume}{110}
+      \field{year}{2024}
+      \field{pages}{030001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.110.030001
+      \endverb
+      \verb{urlraw}
+      \verb https://pdg.lbl.gov
+      \endverb
+      \verb{url}
+      \verb https://pdg.lbl.gov
+      \endverb
+    \endentry
+    \entry{shalaev2021drellyan}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bf7b78e689521dd56f5f12ae418bba6e}{%
+           family={Shalaev},
+           familyi={S\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=17e55f244f0a018ec5af121c604c13cf}{%
+           family={Gorbunov},
+           familyi={G\bibinitperiod},
+           given={I.\bibnamedelimi N.},
+           giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ed23394638570e70ee7ea78ad6305d39}{%
+           family={Shmatova},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pleiades Publishing, Ltd.}%
+      }
+      \strng{namehash}{26f1a5c9635877478a02dbbd3b57ac92}
+      \strng{fullhash}{26f1a5c9635877478a02dbbd3b57ac92}
+      \strng{bibnamehash}{26f1a5c9635877478a02dbbd3b57ac92}
+      \strng{authorbibnamehash}{26f1a5c9635877478a02dbbd3b57ac92}
+      \strng{authornamehash}{26f1a5c9635877478a02dbbd3b57ac92}
+      \strng{authorfullhash}{26f1a5c9635877478a02dbbd3b57ac92}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1063-7788}
+      \field{journaltitle}{Physics of Atomic Nuclei}
+      \field{number}{12}
+      \field{title}{Measurement of Angular Coefficients in the Drell–Yan Process in the CMS Experiment at the LHC}
+      \field{volume}{84}
+      \field{year}{2021}
+      \field{pages}{2037\bibrangedash 2040}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1134/S1063778821090313
+      \endverb
+    \endentry
+    \entry{pdg2018}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=468dd31f33955bc12b7c31e820de613d}{%
+           family={Tanabashi},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{e75186424113a4ab28ae7972b480cbd6}
+      \strng{fullhash}{e75186424113a4ab28ae7972b480cbd6}
+      \strng{bibnamehash}{e75186424113a4ab28ae7972b480cbd6}
+      \strng{authorbibnamehash}{e75186424113a4ab28ae7972b480cbd6}
+      \strng{authornamehash}{e75186424113a4ab28ae7972b480cbd6}
+      \strng{authorfullhash}{e75186424113a4ab28ae7972b480cbd6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{number}{3}
+      \field{title}{Review of Particle Physics}
+      \field{volume}{98}
+      \field{year}{2018}
+      \field{pages}{030001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.98.030001
+      \endverb
+    \endentry
+    \entry{atlaslabmanual}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=4ed88fe6288e8e84f10b3be9e7bf2766}{%
+           family={{University of Bonn, Physics Department}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ed88fe6288e8e84f10b3be9e7bf2766}
+      \strng{fullhash}{4ed88fe6288e8e84f10b3be9e7bf2766}
+      \strng{bibnamehash}{4ed88fe6288e8e84f10b3be9e7bf2766}
+      \strng{authorbibnamehash}{4ed88fe6288e8e84f10b3be9e7bf2766}
+      \strng{authornamehash}{4ed88fe6288e8e84f10b3be9e7bf2766}
+      \strng{authorfullhash}{4ed88fe6288e8e84f10b3be9e7bf2766}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Lab Manual}
+      \field{title}{University of Bonn, Advanced Laboratory Course physics601 E214: The ATLAS Experiment}
+      \field{year}{2024}
     \endentry
   \enddatalist
 \endrefsection
